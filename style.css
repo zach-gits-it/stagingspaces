@@ -5,6 +5,10 @@
 .row {
     width: 100%;
   }
+
+  #logo-img {
+    background: url('Bootstrap-Style/img/Staging_Spaces_Chair_Logo_Beige.svg')
+  }
   
   /********** Large devices only **********/
   @media (min-width: 1200px) {
